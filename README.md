@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dreamarks
-- 👀 I’m interested in learning with technology. 
+- 👀 I’m interested in living and learning with technology. 
 - 🌱 I’m currently learning how to use an Arduino UNO R3
 
 <!---
